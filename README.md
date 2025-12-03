@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🌱 I’m currently learning java, spring!
-- 📫 How to reach me: jinkoo906@gmail.com
 <!--
 **kang0906/kang0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
